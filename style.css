@@ -1,1 +1,10 @@
 /* Name,  */
+body {
+    color: azure;
+    font-size: 50px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url(assets/backround.avif);
+    background-repeat: no-repeat;
+    background-size: fill;
+}
