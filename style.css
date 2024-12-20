@@ -8,3 +8,12 @@ body {
     background-repeat: no-repeat;
     background-size: fill;
 }
+
+    table, th, td {
+        border: 2px solid;
+      }
+
+      .container {
+        padding-left: 34%;
+       margin: 0 auto;
+      }
